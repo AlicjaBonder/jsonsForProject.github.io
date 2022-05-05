@@ -1,162 +1,93 @@
 [
 	{
-		"date":"2022-04-13",
-		"time":"12:00"
-
-	},
-	{
-		"date":"2022-04-14",
-		"time":"12:00"
-	},
-	{
-		"date":"2022-04-15",
-		"time":"12:00"
-	},
-	{
-	"date":"2022-04-16",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-17",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-18",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-19",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-20",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-21",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-22",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-23",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-24",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-25",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-26",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-27",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-28",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-29",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-04-30",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-05-01",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-05-02",
-	"time":"12:00"
-	},
-	{
-	"date":"2022-05-03",
-	"time":"12:00"
-	},
-	{
 	"date":"2022-05-04",
-	"time":"09:22"
+	"time":"09:22",
+	"price":"250",
+	"arriveTime":"14:40"
 	},
 	{
 	"date":"2022-05-05",
 	"time":"12:32",
-	"price":"250"
+	"price":"250",
+	"arriveTime":"14:25"
 	},
 	{
 	"date":"2022-05-06",
 	"time":"12:56",
-	"price":"245"
+	"price":"245",
+	"arriveTime":"15:10"
 	},
 	{
 	"date":"2022-05-07",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:05"
 	},
 	{
 	"date":"2022-05-08",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-05-09",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-05-10",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:50"
 	},
 	{
 	"date":"2022-05-11",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:30"
 	},
 	{
 	"date":"2022-05-12",
 	"time":"12:55",
-	"price":"132"
+	"price":"132",
+	"arriveTime":"15:05"
 	},
 	{
 	"date":"2022-05-13",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"15:01"
 	},
 	{
 	"date":"2022-05-14",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:30"
 	},
 	{
 	"date":"2022-05-15",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:50"
 	},
 	{
 	"date":"2022-05-16",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:25"
 	},
 	{
 	"date":"2022-05-17",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"15:05"
 	},
 	{
 	"date":"2022-05-18",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:25"
 	},
 	{
 	"date":"2022-05-19",
@@ -166,526 +97,631 @@
 	{
 	"date":"2022-05-20",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:10"
 	},
 	{
 	"date":"2022-05-21",
 	"time":"12:56",
-	"price":"245"
+	"price":"245",
+	"arriveTime":"14:55"
 	},
 	{
 	"date":"2022-05-22",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"15:01"
 	},
 	{
 	"date":"2022-05-23",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:40"
 	},
 	{
 	"date":"2022-05-24",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:20"
 	},
 	{
 	"date":"2022-05-25",
 	"time":"12:55",
-	"price":"132"
+	"price":"132",
+	"arriveTime":"14:48"
 	},
 	{
 	"date":"2022-05-26",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:20"
 	},
 	{
 	"date":"2022-05-27",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:40"
 	},
 	{
 	"date":"2022-05-28",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:50"
 	},
 	{
 	"date":"2022-05-29",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:31"
 	},
 	{
 	"date":"2022-05-30",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:48"
 	},
 	{
 	"date":"2022-05-31",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"15:05"
 	},
 	{
 	"date":"2022-06-01",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:25"
 	},
 	{
 	"date":"2022-06-02",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:15"
 	},
 	{
 	"date":"2022-06-03",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"17:01"
 	},
 	{
 	"date":"2022-06-04",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:10"
 	},
 	{
 	"date":"2022-06-05",
 	"time":"12:56",
-	"price":"245"
+	"price":"245",
+	"arriveTime":"14:58"
 	},
 	{
 	"date":"2022-06-06",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-06-07",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:40"
 	},
 	{
 	"date":"2022-06-08",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:25"
 	},
 	{
 	"date":"2022-06-09",
 	"time":"12:55",
-	"price":"132"
+	"price":"132",
+	"arriveTime":"15:01"
 	},
 	{
 	"date":"2022-06-10",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:15"
 	},
 	{
 	"date":"2022-06-11",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:40"
 	},
 	{
 	"date":"2022-06-12",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:50"
 	},
 	{
 	"date":"2022-06-13",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-06-14",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:40"
 	},
 	{
 	"date":"2022-06-15",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"15:05"
 	},
 	{
 	"date":"2022-06-16",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:25"
 	},
 	{
 	"date":"2022-06-17",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:15"
 	},
 	{
 	"date":"2022-06-18",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"17:01"
 	},
 	{
 	"date":"2022-06-19",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:10"
 	},
 	{
 	"date":"2022-06-20",
 	"time":"12:56",
-	"price":"245"
+	"price":"245",
+	"arriveTime":"15:01"
 	},
 	{
 	"date":"2022-06-21",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-06-22",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:25"
 	},
 	{
 	"date":"2022-06-23",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:40"
 	},
 	{
 	"date":"2022-06-24",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:15"
 	},
 	{
 	"date":"2022-06-25",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:35"
 	},
 	{
 	"date":"2022-06-26",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:50"
 	},
 	{
 	"date":"2022-06-27",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-06-28",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-06-29",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"15:00"
 	},
 	{
 	"date":"2022-06-30",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:20"
 	},
 	{
 	"date":"2022-07-01",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:10"
 	},
 	{
 	"date":"2022-07-02",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"16:55"
 	},
 	{
 	"date":"2022-07-03",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"15:01"
 	},
 	{
 	"date":"2022-07-04",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-07-05",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:20"
 	},
 	{
 	"date":"2022-07-06",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-07-07",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:15"
 	},
 	{
 	"date":"2022-07-08",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:35"
 	},
 	{
 	"date":"2022-07-09",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:45"
 	},
 	{
 	"date":"2022-07-10",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-07-11",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-07-12",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:55"
 	},
 	{
 	"date":"2022-07-13",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:20"
 	},
 	{
 	"date":"2022-07-14",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:05"
 	},
 	{
 	"date":"2022-07-15",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"16:55"
 	},
 	{
 	"date":"2022-07-16",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:05"
 	},
 	{
 	"date":"2022-07-17",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-07-18",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:21"
 	},
 	{
 	"date":"2022-07-19",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-07-20",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:15"
 	},
 	{
 	"date":"2022-07-21",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:35"
 	},
 	{
 	"date":"2022-07-22",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:45"
 	},
 	{
 	"date":"2022-07-23",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-07-24",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-07-25",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:55"
 	},
 	{
 	"date":"2022-07-26",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:15"
 	},
 	{
 	"date":"2022-07-27",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"16:55"
 	},
 	{
 	"date":"2022-07-28",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:05"
 	},
 	{
 	"date":"2022-07-29",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:05"
 	},
 	{
 	"date":"2022-07-30",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-07-31",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:24"
 	},
 	{
 	"date":"2022-08-01",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-08-02",
 	"time":"08:22",
-	"price":"332"
+	"price":"332",
+	"arriveTime":"10:15"
 	},
 	{
 	"date":"2022-08-03",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:35"
 	},
 	{
 	"date":"2022-08-04",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:45"
 	},
 	{
 	"date":"2022-08-05",
 	"time":"12:22",
-	"price":"255"
+	"price":"255",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-08-06",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-08-07",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:55"
 	},
 	{
 	"date":"2022-08-08",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:15"
 	},
 	{
 	"date":"2022-08-09",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"16:55"
 	},
 	{
 	"date":"2022-08-10",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:05"
 	},
 	{
 	"date":"2022-08-11",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:05"
 	},
 	{
 	"date":"2022-08-12",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:05"
 	},
 	{
 	"date":"2022-08-13",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:35"
 	},
 	{
 	"date":"2022-08-14",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-08-15",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:35"
 	},
 	{
 	"date":"2022-08-16",
 	"time":"12:53",
-	"price":"432"
+	"price":"432",
+	"arriveTime":"14:40"
 	},
 	{
 	"date":"2022-08-17",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:30"
 	},
 	{
 	"date":"2022-08-18",
 	"time":"13:10",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:55"
 	},
 	{
 	"date":"2022-08-19",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:15"
 	},
 	{
 	"date":"2022-08-20",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"16:55"
 	},
 	{
 	"date":"2022-08-21",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:05"
 	},
 	{
 	"date":"2022-08-22",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:05"
 	},
 	{
 	"date":"2022-08-23",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:10"
 	},
 	{
 	"date":"2022-08-24",
 	"time":"12:45",
-	"price":"167"
+	"price":"167",
+	"arriveTime":"14:30"
 	},
 	{
 	"date":"2022-08-25",
 	"time":"12:31",
-	"price":"175"
+	"price":"175",
+	"arriveTime":"14:15"
 	},
 	{
 	"date":"2022-08-26",
 	"time":"14:45",
-	"price":"189"
+	"price":"189",
+	"arriveTime":"16:35"
 	},
 	{
 	"date":"2022-08-27",
 	"time":"12:45",
-	"price":"356"
+	"price":"356",
+	"arriveTime":"14:30"
 	},
 	{
 	"date":"2022-08-28",
 	"time":"10:30",
-	"price":"134"
+	"price":"134",
+	"arriveTime":"12:20"
 	},
 	{
 	"date":"2022-08-29",
 	"time":"15:10",
-	"price":"341"
+	"price":"341",
+	"arriveTime":"16:55"
 	},
 	{
 	"date":"2022-08-30",
 	"time":"16:20",
-	"price":"258"
+	"price":"258",
+	"arriveTime":"18:05"
 	},
 	{
 	"date":"2022-08-31",
 	"time":"14:20",
-	"price":"331"
+	"price":"331",
+	"arriveTime":"16:05"
 	},
 	{
 	"date":"2022-09-01",
 	"time":"12:22",
-	"price":"265"
+	"price":"265",
+	"arriveTime":"14:10"
 	}
 ]
